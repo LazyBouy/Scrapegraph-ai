@@ -19,7 +19,7 @@ docs/build/
 docs/source/_templates/
 docs/source/_static/
 .env
-venv/
+*venv/
 .vscode/
 
 # exclude pdf, mp3
@@ -36,3 +36,7 @@ poetry.lock
 # lock files
 *.lock
 poetry.lock
+
+
+
+
